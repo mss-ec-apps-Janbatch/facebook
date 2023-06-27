@@ -12,9 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1687847276,,"wq"
 :WQ
 |2,0,1687847266,,"WQ"
+=======
+|2,0,1687759981,,"wq"
+>>>>>>> parent of 1b3c38b (updated DBUtils.java)
 :wwq
 |2,0,1687574053,,"wwq"
 
@@ -29,6 +33,7 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  3  33  ~/stringutils.java
 |4,48,3,33,1687847276,"~/stringutils.java"
 '1  3  0  ~/test.txt
@@ -111,6 +116,22 @@
 |4,39,2,13,1687760772,"~/DBUtils.java"
 -'  2  30  ~/Deploy.sh
 |4,39,2,30,1687759981,"~/Deploy.sh"
+=======
+'0  2  30  ~/Deploy.sh
+|4,48,2,30,1687759981,"~/Deploy.sh"
+'1  3  14  ~/stringutils.java
+|4,49,3,14,1687759933,"~/stringutils.java"
+'2  2  13  ~/DBUtils.java
+|4,50,2,13,1687759884,"~/DBUtils.java"
+'3  3  0  ~/facebook/Deploy.sh
+|4,51,3,0,1687574057,"~/facebook/Deploy.sh"
+'4  3  0  ~/facebook/stringutills.java
+|4,52,3,0,1687574021,"~/facebook/stringutills.java"
+'5  3  0  ~/facebook/DBUtills.java
+|4,53,3,0,1687573970,"~/facebook/DBUtills.java"
+
+# Jumplist (newest first):
+>>>>>>> parent of 1b3c38b (updated DBUtils.java)
 -'  2  30  ~/Deploy.sh
 |4,39,2,30,1687759981,"~/Deploy.sh"
 -'  2  30  ~/Deploy.sh
@@ -171,12 +192,11 @@
 |4,39,1,0,1687759955,"~/Deploy.sh"
 -'  1  0  ~/Deploy.sh
 |4,39,1,0,1687759955,"~/Deploy.sh"
--'  1  0  ~/Deploy.sh
-|4,39,1,0,1687759955,"~/Deploy.sh"
 -'  3  14  ~/stringutils.java
 |4,39,3,14,1687759933,"~/stringutils.java"
 -'  3  14  ~/stringutils.java
 |4,39,3,14,1687759933,"~/stringutils.java"
+<<<<<<< HEAD
 -'  3  14  ~/stringutils.java
 |4,39,3,14,1687759933,"~/stringutils.java"
 -'  3  14  ~/stringutils.java
@@ -235,6 +255,8 @@
 |4,39,1,0,1687759914,"~/stringutils.java"
 -'  1  0  ~/stringutils.java
 |4,39,1,0,1687759914,"~/stringutils.java"
+=======
+>>>>>>> parent of 1b3c38b (updated DBUtils.java)
 -'  1  0  ~/stringutils.java
 |4,39,1,0,1687759914,"~/stringutils.java"
 -'  1  0  ~/stringutils.java
@@ -247,6 +269,7 @@
 |4,39,2,13,1687759884,"~/DBUtils.java"
 -'  2  13  ~/DBUtils.java
 |4,39,2,13,1687759884,"~/DBUtils.java"
+<<<<<<< HEAD
 -'  2  13  ~/DBUtils.java
 |4,39,2,13,1687759884,"~/DBUtils.java"
 -'  2  13  ~/DBUtils.java
@@ -283,6 +306,191 @@
 	+	2	14
 	+	3	10
 
+=======
+-'  1  0  ~/DBUtils.java
+|4,39,1,0,1687759869,"~/DBUtils.java"
+-'  1  0  ~/DBUtils.java
+|4,39,1,0,1687759869,"~/DBUtils.java"
+-'  1  0  ~/DBUtils.java
+|4,39,1,0,1687759869,"~/DBUtils.java"
+-'  1  0  ~/DBUtils.java
+|4,39,1,0,1687759869,"~/DBUtils.java"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/Deploy.sh
+|4,39,3,0,1687574057,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  1  0  ~/facebook/Deploy.sh
+|4,39,1,0,1687574041,"~/facebook/Deploy.sh"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/stringutills.java
+|4,39,3,0,1687574021,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  1  0  ~/facebook/stringutills.java
+|4,39,1,0,1687574001,"~/facebook/stringutills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  3  0  ~/facebook/DBUtills.java
+|4,39,3,0,1687573970,"~/facebook/DBUtills.java"
+-'  1  0  ~/facebook/DBUtills.java
+|4,39,1,0,1687573951,"~/facebook/DBUtills.java"
+-'  1  0  ~/facebook/DBUtills.java
+|4,39,1,0,1687573951,"~/facebook/DBUtills.java"
+-'  1  0  ~/facebook/DBUtills.java
+|4,39,1,0,1687573951,"~/facebook/DBUtills.java"
+-'  1  0  ~/facebook/DBUtills.java
+|4,39,1,0,1687573951,"~/facebook/DBUtills.java"
+-'  1  0  ~/facebook/DBUtills.java
+|4,39,1,0,1687573951,"~/facebook/DBUtills.java"
+-'  1  0  ~/facebook/DBUtills.java
+|4,39,1,0,1687573951,"~/facebook/DBUtills.java"
+
+# History of marks within files (newest to oldest):
+
+>>>>>>> parent of 1b3c38b (updated DBUtils.java)
 > ~/Deploy.sh
 	*	1687759979	0
 	"	2	30
@@ -290,6 +498,23 @@
 	.	2	30
 	+	2	30
 
+<<<<<<< HEAD
+=======
+> ~/stringutils.java
+	*	1687759931	0
+	"	3	14
+	^	3	15
+	.	3	14
+	+	3	14
+
+> ~/DBUtils.java
+	*	1687759882	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+>>>>>>> parent of 1b3c38b (updated DBUtils.java)
 > ~/facebook/Deploy.sh
 	*	1687574055	0
 	"	3	0
